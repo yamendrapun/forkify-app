@@ -1,5 +1,5 @@
 # forkify-app
-A simple build using JavaScript to fetch API to search recipes and add recipes
+A simple application build using HTML, CSS and JavaScript to fetch data from API to search recipes and add recipes.
 
 DEMO: 
 https://forkify-yamendra.netlify.app/
